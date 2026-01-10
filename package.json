@@ -2,5 +2,13 @@
   "name": "zenn-contents",
   "dependencies": {
     "zenn-cli": "^0.3.0"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^20.3.1",
+    "@commitlint/config-conventional": "^20.3.1",
+    "husky": "^9.1.7"
+  },
+  "scripts": {
+    "prepare": "husky"
   }
 }
