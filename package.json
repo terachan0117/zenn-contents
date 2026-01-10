@@ -1,13 +1,5 @@
 {
   "name": "zenn-contents",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/terachan0117/zenn-contents.git"
-  },
-  "bugs": {
-    "url": "https://github.com/terachan0117/zenn-contents/issues"
-  },
-  "homepage": "https://github.com/terachan0117/zenn-contents#readme",
   "dependencies": {
     "zenn-cli": "^0.3.0"
   }
