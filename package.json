@@ -2,7 +2,7 @@
   "name": "zenn-contents",
   "type": "module",
   "dependencies": {
-    "zenn-cli": "^0.3.0"
+    "zenn-cli": "^0.3.1"
   },
   "devDependencies": {
     "@commitlint/cli": "^20.3.1",
